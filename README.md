@@ -6,6 +6,6 @@
 
 🤝 Beyond my technical skills, I excel in communication and collaboration, enabling me to work effectively with stakeholders and present insights to diverse audiences. In my current role, I lead a team of Data Analysts, where I focus on fulfilling our department's vision, establishing structure and optimizing workflows to maximize our impact.
 
-📈 Feel free to explore my personal projects which you can find below in my pinned GitHub repositories!
+📈 Feel free to explore my personal projects in the pinned GitHub repositories below!
 
 🌍 You can also contact me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/denis-garibovic/)
