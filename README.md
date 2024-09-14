@@ -1,4 +1,4 @@
-👋 Hi there! I’m Denis Garibovic, an enthusiastic Data Analyst from Germany with over 5 years of professional experience and a strong passion for data. My desire to be curious and to uncover insights from data has driven me to work at renowned German companies like Tchibo, OTTO and Bonprix, where I've honed my expertise and analytical skill set.
+👋 Hi there! I’m Denis Garibovic, an enthusiastic Data Analyst from Germany with over 8 years of professional experience and a strong passion for data. My desire to be curious and to uncover insights from data has driven me to work at renowned German companies like Tchibo, OTTO and Bonprix, where I've honed my expertise and analytical skill set.
 
 🚀 Throughout my career, I have delivered impactful solutions that drive business success, such as developing machine learning models to accurately forecast online sales, creating data visualizations and interactive dashboards, deriving actionable insights from complex datasets and automating data pipelines to reduce manual workload.
 
