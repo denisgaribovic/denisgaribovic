@@ -8,4 +8,9 @@
 
 📈 Feel free to explore my personal projects in the pinned GitHub repositories below!
 
-🌍 You can also contact me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/denis-garibovic/)
+- E-Commerce Data Analysis: 🔎 A comprehensive data analysis on e-commerce data using Python: [Link](https://github.com/denisgaribovic/e-commerce-data-analysis)
+- Image Recognition: 🤖 An image recognition model to recognize and predict handwritten digits: [Link](https://github.com/denisgaribovic/image-recognition)
+- Media Metrics Dashboard: 📊 An interactive dashboard built in Looker Studio: [Link](https://github.com/denisgaribovic/media-metrics-dashboard)
+- Spam Detection: 🚫 A spam detection system using Python, Naive Bayes and NLP techniques: [Link](https://github.com/denisgaribovic/spam-detection)
+
+🌍 I’m always open to connecting! You can contact me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/denis-garibovic/)
