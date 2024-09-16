@@ -13,4 +13,4 @@
 - [📊 Media Metrics Dashboard:](https://github.com/denisgaribovic/media-metrics-dashboard) An interactive dashboard centered around video games sales, Netflix shows and Spotify streams, built in Looker Studio
 - [🚫 Spam Detection](https://github.com/denisgaribovic/spam-detection) A spam detection system using Python, Naive Bayes and NLP techniques
 
-🌍 I’m always open to connecting! You can contact me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/denis-garibovic/)
+🌍 Feel free to connect—I’m always open to new opportunities and discussions! You can contact me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/denis-garibovic/)
