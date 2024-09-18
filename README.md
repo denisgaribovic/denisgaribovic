@@ -6,15 +6,15 @@ I’m **Denis Garibovic**, an enthusiastic Data Analyst from Germany. Welcome to
 I discovered my passion for data and technology in my early 20s, and since then, curiosity and a drive for innovation have shaped my career. Working at renowned German companies like **Tchibo, OTTO**, and **Bonprix** has allowed me to master my analytical skills and gain valuable experience in data analytics.
 
 ## 💻 Technical Skills  
-- **Python & SQL**
-- **Machine Learning & Predictive Analytics**
-- **Tableau & Looker Studio**
-- **Google BigQuery & Google Cloud Platform**
-- **Data Pipeline Automation**
-- **Data Analysis, Statistics, Data Wrangling, Data Visualization**
-- **Google Analytics**
-- **GitHub**
-- **Jira & Confluence**
+- Python & SQL
+- Machine Learning & Predictive Analytics
+- Tableau & Looker Studio
+- Google BigQuery & Google Cloud Platform
+- Data Pipeline Automation
+- Data Analysis, Statistics, Data Wrangling, Data Visualization
+- Google Analytics
+- GitHub
+- Jira & Confluence
 
 ## 🚀 Projects 
 
