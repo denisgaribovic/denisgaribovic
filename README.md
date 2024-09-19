@@ -25,7 +25,7 @@ Feel free to explore my repositories and projects, where I apply cutting-edge te
 - [🔎 E-Commerce Data Analysis:](https://github.com/denisgaribovic/e-commerce-data-analysis) A comprehensive data analysis for a UK-based online retail store using Python 
 - [🤖 Image Recognition:](https://github.com/denisgaribovic/image-recognition) An image recognition model to recognize and predict handwritten digits
 - [📊 Media Metrics Dashboard:](https://github.com/denisgaribovic/media-metrics-dashboard) An interactive dashboard centered around video game sales, Netflix shows and Spotify streams
-- [🚫 Spam Detection](https://github.com/denisgaribovic/spam-detection) A spam detection system using Python, Naive Bayes and NLP techniques
+- [🚫 Spam Detection:](https://github.com/denisgaribovic/spam-detection) A spam detection system using Python, Naive Bayes and NLP techniques
 
 ## 🌍 Contact 
 Feel free to connect, I’m always open to new opportunities and discussions! You can contact me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/denis-garibovic/)
