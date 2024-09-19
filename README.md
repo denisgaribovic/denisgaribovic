@@ -1,6 +1,8 @@
 # 👋 Hi there!
 
-I’m **Denis Garibovic**, an enthusiastic Data Analyst from Germany. Welcome to my GitHub, where I showcase my personal projects! Here’s a little more about me:
+I’m **Denis Garibovic**, an enthusiastic Data Analyst from Germany. 
+
+Welcome to my GitHub, where I showcase my personal projects! Here’s a little more about me:
 
 ## 🌟 About Me  
 I discovered my passion for data and technology in my early 20s, and since then, curiosity and a drive for innovation have shaped my career. Working at renowned German companies like **Tchibo, OTTO** and **Bonprix** has allowed me to master my analytical skills and gain valuable experience in data analytics.
