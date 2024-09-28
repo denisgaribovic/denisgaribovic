@@ -12,8 +12,8 @@ I discovered my passion for data and technology in my early 20s, and since then,
 - Machine Learning & Predictive Analytics
 - Tableau & Looker Studio
 - Google BigQuery & Google Cloud Platform
-- Data Pipeline Automation
-- Data Analysis, Statistics, Data Wrangling, Data Visualization
+- Data Analysis, Data Visualization, Data Pipeline Automation, Data Wrangling
+- Statistics
 - Google Analytics
 - GitHub
 - Jira & Confluence
