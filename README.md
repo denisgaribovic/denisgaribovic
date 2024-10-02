@@ -23,7 +23,7 @@ I discovered my passion for data and technology in my early 20s, and since then,
 Feel free to explore my repositories and projects, where I apply cutting-edge techniques to real-world problems.
 
 - [🔎 E-Commerce Data Analysis:](https://github.com/denisgaribovic/e-commerce-data-analysis) A comprehensive data analysis for a UK-based online retail store using Python 
-- [🤖 Image Recognition:](https://github.com/denisgaribovic/image-recognition) An image recognition model to recognize and predict handwritten digits
+- [🤖 Image Recognition:](https://github.com/denisgaribovic/image-recognition) An image recognition model using SVMs to recognize and predict handwritten digits
 - [📊 Media Metrics Dashboard:](https://github.com/denisgaribovic/media-metrics-dashboard) An interactive dashboard centered around video game sales, Netflix shows and Spotify streams
 - [🚫 Spam Detection:](https://github.com/denisgaribovic/spam-detection) A spam detection system using Python, Naive Bayes and NLP techniques
 
